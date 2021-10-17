@@ -28,8 +28,8 @@ Route::get('/pendidikan', function () {
 Route::get('/kontak', function () {
     return view('kontak');
 });
-Route::get('/favorite', function () {
-    return view('favorite');
+Route::get('/galeri', function () {
+    return view('galeri');
 });
 Route::get('/tentang', function () {
     return view('tentang');

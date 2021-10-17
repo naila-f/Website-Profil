@@ -37,7 +37,7 @@
               <h4>Mengikuti Tari Massal se-Kota Mojokerto</h4>
             </div>
             <div class="resume-item">
-              <h4>Mengisi Acara JTIF 4.0</h4>
+              <h4>Mengisi Acara X-Project 5.0</h4>
               </div>  
             <div class="resume-item">
               <h4>Mengikuti Program MBKM Pertukaran Mahasiswa</h4>

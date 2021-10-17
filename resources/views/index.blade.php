@@ -8,8 +8,8 @@
   <title>Welcome to Profil Naila</title>
   
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/3(2).png" rel="icon">
+  <link href="assets/img/3(2).png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -34,7 +34,7 @@
     <div class="container d-flex flex-column align-items-center" data-aos="zoom-in" data-aos-delay="100">
       <h1>WELCOME</h1>
       <p>Silahkan klik</p>
-      <a href="home" class="btn-loginregister">HOME</a>
+      <a href="home" class="btn-home">HOME</a>
     </div>
   </section><!-- End Welcome -->
 
